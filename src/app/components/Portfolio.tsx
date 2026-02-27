@@ -25,7 +25,7 @@ export function Portfolio() {
   ];
 
   return (
-    <section id="portfolio" className="py-20 lg:py-32">
+    <section id="portfolio" className="py-20 lg:py-32 border-t-4 border-primary">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <motion.div

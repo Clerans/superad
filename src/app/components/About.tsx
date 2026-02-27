@@ -27,7 +27,7 @@ export function About() {
   ];
 
   return (
-    <section id="about" className="py-20 lg:py-32">
+    <section id="about" className="py-20 lg:py-32 border-t-4 border-primary">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Image */}

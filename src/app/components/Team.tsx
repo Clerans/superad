@@ -29,7 +29,7 @@ export function Team() {
     ];
 
     return (
-        <section id="team" className="py-12 lg:py-32">
+        <section id="team" className="py-12 lg:py-32 border-t-4 border-primary">
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
