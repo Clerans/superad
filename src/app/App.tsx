@@ -9,7 +9,7 @@ import { Footer } from '@/app/components/Footer';
 
 export default function App() {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen overflow-x-hidden w-full relative">
       <Header />
       <main>
         <Hero />
