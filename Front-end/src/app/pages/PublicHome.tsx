@@ -7,7 +7,7 @@ import { Portfolio } from '@/app/components/Portfolio';
 import { Contact } from '@/app/components/Contact';
 import { Footer } from '@/app/components/Footer';
 
-export default function App() {
+export default function PublicHome() {
   return (
     <div className="min-h-screen overflow-x-hidden w-full relative">
       <Header />
